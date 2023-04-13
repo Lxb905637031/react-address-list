@@ -699,6 +699,11 @@ pify@^4.0.1:
   resolved "https://registry.yarnpkg.com/pify/-/pify-4.0.1.tgz#4b2cd25c50d598735c50292224fd8c6df41e3231"
   integrity sha512-uB80kBFb/tfd68bVleG9T5GGsGPjJrLAUpR5PZIrhBnIaRTQRjqdJSsIKkOP6OAIFbj7GOrcudc5pNjZ+geV2g==
 
+pinyin-pro@^3.13.2:
+  version "3.13.2"
+  resolved "https://registry.yarnpkg.com/pinyin-pro/-/pinyin-pro-3.13.2.tgz#b5a4716c33579398334291740b61a218b796b314"
+  integrity sha512-DKz04M0PkrongGyJW7GU+iNB2jInwLcP1p5+w0gu0hz2PtF8q+GTC1GDW731wyhm+q7PGoyMuY3sLONLTqi6mg==
+
 postcss@^8.4.21:
   version "8.4.21"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.21.tgz#c639b719a57efc3187b13a1d765675485f4134f4"

@@ -15,4 +15,4 @@ react hooks + typescript
 2. 一加内置浏览器scroll事件不适用 (未解决)
 
 ## 展示
-https://user-images.githubusercontent.com/45072786/231776533-2abd1f30-f963-4ed4-b324-b6631d74f664.gif
+![image]https://user-images.githubusercontent.com/45072786/231776533-2abd1f30-f963-4ed4-b324-b6631d74f664.gif
